@@ -1,0 +1,25 @@
+{
+  "name": "tost",
+  "version": "1.0.0",
+  "description": "Tost, testing",
+  "main": "src/Tost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andersbakken/tost.git"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Anders Bakken <agbakken@gmail.com>",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/Andersbakken/tost/issues"
+  },
+  "homepage": "https://github.com/Andersbakken/tost",
+  "dependencies": {
+    "js-yaml": "^3.3.0"
+  }
+}
